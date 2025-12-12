@@ -23,9 +23,13 @@ Some of the major risks are misinformation, bias, over-reliance on AI, and job d
 **Do you think society will become too dependent on AI tools like ChatGPT for important decisions?**
 
 ## Repository Structure
+
 /research-notes  
+
 /presentation-materials 
+
 /media-assets  
+
 README.md  
 
 ## Sources
