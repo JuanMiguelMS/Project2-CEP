@@ -17,7 +17,7 @@ Some of the major risks are misinformation, bias, over-reliance on AI, and job d
 - International debate on regulating AI is rising.
 
 ## Video Link
-[YouTube Link Placeholder]
+https://youtu.be/G0mq5Xb-1x0
 
 ## Final Discussion Question
 **Do you think society will become too dependent on AI tools like ChatGPT for important decisions?**
